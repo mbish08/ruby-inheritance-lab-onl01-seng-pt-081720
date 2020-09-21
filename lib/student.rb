@@ -1,4 +1,4 @@
-class Student < User 
+class Student
 
 def initialize(first_name, last_name, knowledge)
   @first_name = first_name
